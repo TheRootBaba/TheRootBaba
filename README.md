@@ -1,60 +1,81 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Network+Security+Engineer;Python+Automation;Cloud+Infrastructure" alt="Typing SVG" />
+  <h1>Baba Ahmed El Bekay</h1>
+  <p><strong>Network Security Student & Cybersecurity Engineer</strong></p>
+  <p>Building secure network architectures, automated Python security tools, and resilient cloud infrastructure.</p>
   
-  <p>
-    <a href="https://linkedin.com/in/babaahmedelbekay"><b>LinkedIn</b></a> &nbsp;•&nbsp; 
-    <a href="https://baba-ahmed-portfolio.vercel.app/"><b>Portfolio</b></a> &nbsp;•&nbsp; 
-    <a href="mailto:babaahmed3409@gmail.com"><b>Email</b></a>
-  </p>
+  <br>
+  
+  <a href="https://linkedin.com/in/babaahmedelbekay">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://baba-ahmed-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:babaahmed3409@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br>
-
-### About
-I am a Network Security student and aspiring cybersecurity engineer based in Mauritania (GMT+0). I focus on building secure network infrastructure, automating security operations with Python, and deploying cloud-native solutions.
-
 <br>
 
-### Technical Stack
+<h3 align="left">Technical Arsenal</h3>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL, Bash |
-| **Security & Networking** | Nmap, Wireshark, GNS3, FRRouting, TCP/IP |
-| **Infrastructure & Cloud** | Oracle Cloud (OCI), Terraform, Docker, Linux, PostgreSQL |
-
-<br>
-
-### GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRootBaba&show_icons=true&theme=transparent&hide_border=true&title_color=fff&icon_color=00E5FF&text_color=9f9f9f" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRootBaba&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=9f9f9f" alt="Top Languages" width="48%" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,bash,sql,linux,docker,terraform,postgres,oracle,git,github,vscode&theme=dark" alt="Tech Stack" />
+</p>
+<p align="left">
+  <sub>Specialties: Nmap, GNS3, Wireshark, TCP/IP, OSPF, VLANs, OCI, Security Automation</sub>
 </p>
 
 <br>
-
-### Featured Projects
-
-**NetSec Agent** &nbsp;|&nbsp; [Repository](https://github.com/TheRootBaba/NetSEc-agent)
-> Python-based authorized network assessment tool using Nmap, Streamlit, and AI-assisted scan interpretation.
-
-**NetOps Sentinel** &nbsp;|&nbsp; [Repository](https://github.com/TheRootBaba/netops-sentinel)
-> GNS3 and FRRouting network lab with Python-based monitoring, inventory validation, and incident tracking.
-
-**AegisSOC** &nbsp;|&nbsp; [Repository](https://github.com/TheRootBaba)
-> Open-source SOC platform exploring security event ingestion, alert management, and incident response workflows.
-
 <br>
 
-### Certifications
+<h3 align="left">System Analytics</h3>
 
-*   **Microsoft** – Cybersecurity Analyst Professional Certificate
-*   **Oracle** – Cloud Infrastructure Architect Associate
-*   **Oracle** – Cloud Infrastructure Agentic AI Associate
-*   **Macquarie University** – Cyber Security: Governance, Risk & Compliance (GRC)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheRootBaba&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=9CA3AF&bg_color=00000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRootBaba&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=9CA3AF&bg_color=00000000" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+<br>
+
+<h3 align="left">Featured Engineering Projects</h3>
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>NetSec Agent</h4>
+      <p>Authorized network assessment tool leveraging Nmap, Python, and AI-assisted scan interpretation via a Streamlit interface.</p>
+      <a href="https://github.com/TheRootBaba/NetSEc-agent"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>NetOps Sentinel</h4>
+      <p>GNS3 and FRRouting network lab simulating enterprise topologies with automated Python monitoring and JSON evidence logging.</p>
+      <a href="https://github.com/TheRootBaba/netops-sentinel"><b>View Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>AegisSOC</h4>
+      <p>Open-source SOC platform exploring security event ingestion, alert management, and incident response workflows.</p>
+      <a href="https://github.com/TheRootBaba"><b>View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Certifications</h4>
+      <ul>
+        <li>Microsoft Cybersecurity Analyst</li>
+        <li>Oracle OCI Architect Associate</li>
+        <li>Oracle OCI Agentic AI Associate</li>
+        <li>Macquarie University GRC</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheRootBaba&label=Profile+Views&color=00E5FF&style=flat" alt="Profile Views" />
+  <sub>Profile Views: <img src="https://komarev.com/ghpvc/?username=TheRootBaba&color=3B82F6&style=flat-square" align="center" /></sub>
 </div>
